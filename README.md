@@ -8,7 +8,8 @@ Requirements to run this project
 
 2.Install metamask extension in your chrome browser.
 
-Steps to run project.
+Steps to run project. 
+
 1.Download/clone project , cd into project directory , open terminal and run command "npm install", it will install all the dependencies required.
 
 2.Install lite server using this command "npm install -g lite-server".
