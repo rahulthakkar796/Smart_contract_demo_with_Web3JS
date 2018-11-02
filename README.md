@@ -2,7 +2,8 @@
 
 Note:This smart contract is for educational purpose.
 
-Requirements to run this project	
+Requirements to run this project  
+
 1.Install Node.js
 
 2.Install metamask extension in your chrome browser.
