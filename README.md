@@ -1,9 +1,8 @@
 # Smart_contract_demo_with_Web3JS
 
-Note:This smart contract is for educational purpose.
 
-Requirements to run this project  
-
+# Requirements to run this project  
+```
 1.Install Node.js
 
 2.Install metamask extension in your chrome browser.
@@ -23,3 +22,6 @@ Steps to run project.
 6.Now open terminal in project directory and run this command "npm run dev", it will start lite server and redirect you to the localhost.
 
 7.Play with smart contract!
+```
+Note :This smart contract is for educational purpose.
+
